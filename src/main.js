@@ -15,7 +15,7 @@ const presentations = [
   { category: '3年', title: 'ＡＩで商品企画（商業）', type: 'dept', years: 3 },
   { category: '1-2年', title: 'AI×反復＝数学力UP！（数学）', type: 'dept', years: 1 },
   { category: '4-7年', title: '私の「推し」を最強にする！（英語）', type: 'dept', years: 4 },
-  { category: '15年〜', title: 'ロイロ・フォーム・スプレッドシート連携（田仲）', type: 'dept', years: 15 },
+  { category: '15年〜', title: 'ロイロ・フォーム・スプレッドシート連携（国語）', type: 'dept', years: 15 },
   { category: '8-10年', title: '学校保健要項のデジタル化（養護）', type: 'dept', years: 8 },
   { category: '1-2年', title: 'ピチピチ・アナログ世代の挑戦（英語）', type: 'dept', years: 1 },
   { category: '1-2年', title: '「振り返り」の蓄積で育む自己調整学習（国語）', type: 'dept', years: 1 }
